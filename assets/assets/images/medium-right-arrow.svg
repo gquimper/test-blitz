@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="13px" viewBox="0 0 8 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 60.1 (101010) - https://sketch.com -->
+    <title>4E234FC3-CF39-4DBA-BF41-359FED5AEC9D</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M0.208269691,11.6836703 C-0.0694584776,11.9848372 -0.0694180641,12.4730813 0.208359957,12.7741941 C0.486137978,13.0753069 0.936464721,13.075263 1.21419289,12.7740962 L7,6.5 L1.21419289,0.225903798 C0.936464721,-0.0752630427 0.486137978,-0.0753068589 0.208359957,0.225805932 C-0.0694180641,0.526918722 -0.0694584776,1.01516283 0.208269691,1.31632967 L4.98851463,6.5 L0.208269691,11.6836703 Z" id="path-1"></path>
+    </defs>
+    <g id="Asset-Artboard-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ICONS-/-Medium-right-arrow" transform="translate(0.139365, 0.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Page-1" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="Tint-Tint-/-Blue" mask="url(#mask-2)" fill="#00549A">
+                <g transform="translate(-4.000000, 0.000000)" id="Tint-/-White">
+                    <rect x="0" y="0" width="15" height="14"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
